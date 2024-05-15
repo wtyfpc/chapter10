@@ -6,7 +6,7 @@
 
 #include <functional>
 
-#include "codec.hpp"
+#include "codec.cpp"
 
 namespace EchoServer {
 // 获取系统有多少个可用的cpu
